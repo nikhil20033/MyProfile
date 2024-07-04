@@ -220,7 +220,7 @@ body {
   #hero {
     width: 100%;
     height: 100vh;
-    background: url("/Image/office1.jpg") top center;
+    background: url("office1.jpg") top center;
     background-size: cover;
   }
   #nam{
